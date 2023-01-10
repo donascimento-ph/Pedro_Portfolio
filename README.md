@@ -1,6 +1,6 @@
 # Pedro Data Science Portfolio
 
-# [Project 1: Black Friday Sale: Exploratory analysis](https://github.com/donascimento-ph/Pedro_Portfolio/blob/main/Black%20Friday%20Sale%20a%20exploratory%20analysis%20(1).ipynb)
+# [Project 1: Black Friday Sale: Exploratory Analysis](https://github.com/donascimento-ph/Pedro_Portfolio/blob/main/Black%20Friday%20Sale%20Exploratory%20Analysis.ipynb)
 
 * Data collection and preparation: The first step in this project was to collect data on customer purchases during Black Friday, including information on the user ID, product ID, gender, age, occupation, city category, stay in current city years, marital status, and product categories.
 
