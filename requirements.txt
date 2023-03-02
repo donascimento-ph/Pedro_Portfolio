@@ -1,5 +1,5 @@
 altair==4.1.0
-datashape==0.5.4
+datashape==0.5.2
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
 mpmath==1.2.1
